@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📝 Blog </h1>
+  <h1>📝 Blog - EM PRODUÇÃO ⚠👷🏼‍♀️</h1>
 <br>
 </div>
 <div>
@@ -9,7 +9,7 @@
   <p> Objetivo: Criar um blog pessoal usando Next.js. </p>
 <h3>▶ Como rodar:</h3>
 <div>
-    <p>Você pode acessar <a href="#">clicando aqui</a>.</p>
+    <p>Você pode acessar <a href="https://blog-dio-three.vercel.app/">clicando aqui</a>.</p>
 </div>
   <h3>💻 TECNOLOGIA:</h3>
   <img  alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
